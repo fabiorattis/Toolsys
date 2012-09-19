@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F0081CE3-C071-4BB8-8559-59555601BA80" ModuleId="RDev.ToolsSys.UserInterface.WPFApplication" />
+  <Module PersistentId="F26D2355-708A-4203-9DBF-1565B2DA43D5" ModuleId="RDev.ToolsSys.Business" />
+</Modules>
